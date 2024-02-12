@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pkfMiyrJEkO0MvxJOrV4CA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.saucedemo.com/" DesignTimeRectangle="537, 399, 292, 45" DesignTimeScaleFactor="1" FriendlyName="'DIV'" FullSelectorArgument="&lt;webctrl class='error-message-container' parentid='login_button_container' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl class='error-message-container' parentid='login_button_container' tag='DIV' type='' aaname='' /&gt;" Guid="be2a0610-c023-418b-87af-211b13f649b2" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Swag Labs' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8ae2cd5a05bb7fe13758b107b0aca17e.png" xmlns="">0qIQUd7SrNUy9mIg-tVr20Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

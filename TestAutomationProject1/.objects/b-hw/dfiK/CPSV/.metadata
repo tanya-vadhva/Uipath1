@@ -1,0 +1,15 @@
+﻿{
+  "Name": "page_swagapp",
+  "Type": "Screen",
+  "Id": "CPSVnGqfm0mSqlnRiZ533w",
+  "Reference": "bF_CvVCyqkiBZxteRe80Cw/CPSVnGqfm0mSqlnRiZ533w",
+  "ParentRef": "bF_CvVCyqkiBZxteRe80Cw/dfiKm3SkOU25QJ6UtvRHnw",
+  "Created": "2024-02-01T09:16:23.7501383Z",
+  "Updated": "2024-02-01T09:17:00.4210458Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
